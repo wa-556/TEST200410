@@ -1,2 +1,5 @@
 # TEST200410
 JUST ANOTHER REPOSITORY
+
+HI guys!
+i'm static boy.
